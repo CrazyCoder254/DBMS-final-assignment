@@ -19,7 +19,7 @@ library.sql
 LINK: https://github.com/CrazyCoder254/DBMS-final-assignment/blob/main/library.sql
 
 ▶️ How to Run
-Option 1: Using MySQL Workbench
+Using MySQL Workbench
 Open MySQL Workbench and connect to your MySQL server.
 Run the library.sql script
 You should see a new database called librarydb.
@@ -40,7 +40,7 @@ pip
 - MySQL database with foreign key relationships
 - FastAPI with automatic Swagger UI
 
-🛠️ Step 2: Clone the Project
+🛠️ Step 1: Clone the Project
 git clone https://github.com/CrazyCoder254/DBMS-final-assignment.githttps://github.com/your-username/task-manager-api.git
 cd task-manager-api
 
