@@ -1,6 +1,6 @@
-A combined project that includes:
+**A combined project that includes:**
 
-A library database system and A task management API built using FastAPI
+**A library database system and A task management API built using FastAPI**
 
 PROJECT ONE
 📚 Library Management System – SQL Schema
